@@ -12,10 +12,11 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
  
-##
+<!-- ##
 
 <div align="center">
   <a href="https://github.com/HelenCris">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelenCris&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenCris&layout=compact&langs_count=6&theme=material-palenight"/>
 </div>
+ -->
