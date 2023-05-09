@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/HelenCrisM">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HelenCrisM&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenCrisM&layout=compact&langs_count=6&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelenCrisM&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenCrisM&layout=compact&langs_count=6&theme=material-palenight"/>
 </div>
 
