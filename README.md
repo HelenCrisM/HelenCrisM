@@ -1,8 +1,8 @@
 ### Hi I'm a Computer Science Student
 
-- 🌱 I’m currently learning **BLoC**
+- 🌱 I’m currently learning **C# and .NET**
 - ⚡ About me: I'm **book lover**
-- 🔭 I’m currently working on Mobile Development
+- 🔭 I’m currently working on Mobile Software Architect.
 - 📚 Languages, Frameworks and Databases:<br><br>
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
