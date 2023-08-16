@@ -1,6 +1,6 @@
 ### Hi I'm a Computer Science Student
 
-- 🌱 I’m currently learning **C# and .NET**
+- 🌱 I’m currently learning **Redux**
 - ⚡ About me: I'm **book lover**
 - 🔭 I’m currently working on Mobile Software Architect.
 - 📚 Languages, Frameworks and Databases:<br><br>
