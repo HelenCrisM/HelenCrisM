@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning **Redux**
 - ⚡ About me: I'm **book lover**
-- 🔭 I’m currently working on Mobile Software Architect.
+- 🔭 I’m currently working on Mobile Software Development.
+- My old github profile: https:///github.com/HelenCris
 - 📚 Languages, Frameworks and Databases:<br><br>
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
