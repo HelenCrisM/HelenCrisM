@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Cubit**
 - ⚡ About me: I'm **book lover**
 - 🔭 I’m currently working on Mobile Software Development.
-- My old github profile: https:///github.com/HelenCris
+- My old github profile: <https:///github.com/HelenCris>
 - 📚 Languages, Frameworks and Databases:<br><br>
   
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
