@@ -1,8 +1,8 @@
 ### Hi I'm a Computer Science Student
 
-- 🌱 I’m currently learning **Cubit**
+- 🌱 I’m currently learning **Redux**
 - ⚡ About me: I'm **book lover**
-- 🔭 I’m currently working on Mobile Software Development.
+- 🔭 I’m currently working on Front-end Software Development.
 - My old github profile: <https:///github.com/HelenCris>
 - 📚 Languages, Frameworks and Databases:<br><br>
   
