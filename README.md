@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Redux**
 - ⚡ About me: I'm **book lover**
 - 🔭 I’m currently working on Front-end Software Development.
-- My old github profile: <https:///github.com/HelenCris>
+- My old github profile: <https://github.com/HelenCris/>
 - 📚 Languages, Frameworks and Databases:<br><br>
   
 
