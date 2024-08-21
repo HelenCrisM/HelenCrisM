@@ -13,7 +13,7 @@
  
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/HelenCrisM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenCrisM&layout=compact&langs_count=6&theme=material-palenight"/>
 </div>
