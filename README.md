@@ -1,6 +1,6 @@
 ### Hi I'm a Computer Science Student
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Bloc**
 - 🔭 I’m currently working on Mobile Developer.
 - My old github profile: <https://github.com/HelenCris/>
 - 📚 Languages, Frameworks and Databases:<br><br>
