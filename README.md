@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Helen Cris
 
+My old GitHub Profile: [https://github.com/HelenCris](https://github.com/HelenCris)
+
 - 🔭 **Software Engineer** from Brazil with a passion for innovative projects and teamwork.
 - 📚 Languages, Frameworks and Databases:<br><br>
 
@@ -12,6 +14,12 @@
 * Others: `Git` - `TDD` - `SOLID` - `Redux`
 
 
-### My old GitHub Profile: [https://github.com/HelenCris](https://github.com/HelenCris)
+<div align="center">
+<a href="https://github.com/HelenCrisM">
+<img src="https://github-readme-stats.vercel.app/api?username=HelenCrisM&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenCrisM&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+
 
 
