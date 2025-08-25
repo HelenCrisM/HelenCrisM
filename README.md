@@ -16,7 +16,6 @@ My old GitHub Profile: [https://github.com/HelenCris](https://github.com/HelenCr
 
 <div align="center">
 <a href="https://github.com/HelenCrisM">
-<img src="https://github-readme-stats.vercel.app/api?username=HelenCrisM&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenCrisM&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
