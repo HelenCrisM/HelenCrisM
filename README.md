@@ -3,7 +3,6 @@
 My old GitHub Profile: [https://github.com/HelenCris](https://github.com/HelenCris)
 
 - 🔭 **Software Engineer** from Brazil with a passion for innovative projects and teamwork.
-- 📚 Languages, Frameworks and Databases:<br><br>
 
 ### My Tech stack
 
